@@ -1,1 +1,1 @@
-# Simple-Automation-framework-POM
+Automation-framework-POM-TestNG
